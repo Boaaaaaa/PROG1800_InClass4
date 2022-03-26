@@ -1,0 +1,18 @@
+/*
+ *   form.css
+ *   InClass 4
+ *
+ *   Revision History
+ *      Boa Im, 2022.03.24: Created
+ */
+
+* {
+    background-color: lightslategray;
+    font-size: large;
+    color: white;
+}
+
+#mainform {
+    border: solid 2px black;
+    width: 400px;
+}
